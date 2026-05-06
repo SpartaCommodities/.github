@@ -1,5 +1,6 @@
-<!-- 🤖 Claude AI review runs automatically · Add [skip review] to the title to skip (typo fixes, config changes, WIP, etc.) -->
-<!-- example: `WIP: linting files [skip review]` -->
+<!-- 🤖 Claude reviews every PR automatically -->
+<!-- · Add [skip review] to the PR title to opt out (typos, config, WIP) · e.g. `WIP: fix linting [skip review]` -->
+<!-- · Comment `@claude review` for follow-up/incremental reviews -->
 
 ## 🎯 Summary
 

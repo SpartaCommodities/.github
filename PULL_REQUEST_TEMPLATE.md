@@ -1,3 +1,5 @@
+<!-- 🤖 Claude AI review runs automatically · Add [skip review] to the title to skip (typo fixes, config changes, WIP, etc.) -->
+
 ## 🎯 Summary
 
 <!-- One sentence: what changed and why. Verb + component + outcome. No vague language.

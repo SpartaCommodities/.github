@@ -1,6 +1,5 @@
-<!-- 🤖 Claude reviews every PR automatically -->
-<!-- · Add [skip review] to the PR title to opt out (typos, config, WIP) · e.g. `WIP: fix linting [skip review]` -->
-<!-- · Comment `@claude review` for follow-up/incremental reviews -->
+<!-- 🤖 Claude reviews are now opt-in -->
+<!-- · Comment `@claude review` for first or follow-up reviews -->
 
 ## 🎯 Summary
 

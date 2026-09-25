@@ -1,6 +1,3 @@
-<!-- 🤖 Claude reviews are now opt-in -->
-<!-- · Comment `@claude review` for first or follow-up reviews -->
-
 ## 🎯 Summary
 
 <!-- One sentence: what changed and why. Verb + component + outcome. No vague language.
